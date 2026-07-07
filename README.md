@@ -37,7 +37,7 @@ The **Phishing Email Detection & Awareness System** is a cybersecurity project d
 - Phishing Email Identification
 - Social Engineering Awareness
 - Browser Security Practices
-- Cybersecurity Awareness
+-  Cybersecurity Awareness
   ----
 
 ## 📊 Email Classification
@@ -48,6 +48,16 @@ The **Phishing Email Detection & Awareness System** is a cybersecurity project d
 | ⚠️ Suspicious | Contains some warning signs requiring verification |
 | ❌ Phishing | Contains multiple phishing indicators and poses a security risk |
 
+----
+## 📧 Email Header Analysis
+
+The email header was analyzed to verify the authenticity of the sender and identify potential security risks. The analysis focused on:
+
+- Sender email address
+- Email routing path
+- SPF, DKIM, and DMARC authentication results
+- Source IP information
+- Signs of email spoofing or suspicious activity
 ----
 
 ## 🛡 Prevention Guidelines
@@ -77,3 +87,7 @@ The **Phishing Email Detection & Awareness System** is a cybersecurity project d
 - Gained practical knowledge of identifying phishing indicators.
 - Enhanced cybersecurity awareness and email security best practices.
 
+---
+## ✅ Conclusion
+
+This project demonstrates how email header analysis helps verify email authenticity, identify potential threats, and improve cybersecurity awareness.
